@@ -1,6 +1,0 @@
-treamlit
-yfinance
-pandas
-requests
-lxml
-xlsxwriter
